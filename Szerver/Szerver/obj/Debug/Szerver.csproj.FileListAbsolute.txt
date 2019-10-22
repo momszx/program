@@ -1,0 +1,6 @@
+D:\Programozás\Szerver\Szerver\bin\Debug\Szerver.exe.config
+D:\Programozás\Szerver\Szerver\bin\Debug\Szerver.exe
+D:\Programozás\Szerver\Szerver\bin\Debug\Szerver.pdb
+D:\Programozás\Szerver\Szerver\obj\Debug\Szerver.csprojAssemblyReference.cache
+D:\Programozás\Szerver\Szerver\obj\Debug\Szerver.exe
+D:\Programozás\Szerver\Szerver\obj\Debug\Szerver.pdb

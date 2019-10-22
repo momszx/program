@@ -1,0 +1,12 @@
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe.config
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojResolveAssemblyReference.cache
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb
+D:\Programozás\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe.config
+D:\Programozás\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe
+D:\Programozás\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb
+D:\Programozás\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojAssemblyReference.cache
+D:\Programozás\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
+D:\Programozás\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb

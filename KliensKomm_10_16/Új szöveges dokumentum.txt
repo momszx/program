@@ -1,0 +1,5 @@
+Login szolgáltatás 2 paramérter jelszó felhasználó és be állitani igazra hogy bejentkezet
+termékek listázása a lockolni érdemes
+add bekéri a paramétereket 
+licit paraméter bekérése kinek mennyiért mire licitáll 
+bey kilépes 

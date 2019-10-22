@@ -1,0 +1,30 @@
+﻿<Application x:Class="WpfApp1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <!--colors-->
+        <Color x:Key="fg" A="255" R="191" G="188" B="192" ></Color>
+        <Color x:Key="bg" A="255" R="64" G="63" B="61" ></Color>
+         <!--brushes-->
+        <SolidColorBrush x:Key="fgSCB" Color="{StaticResource fg}"></SolidColorBrush>
+        <SolidColorBrush x:Key="bgSCB" Color="{StaticResource bg}"></SolidColorBrush>
+        <LinearGradientBrush x:Key="fgToBgLGB" StartPoint="0.5,0" EndPoint="0.5,1">
+            <GradientStop Offset="0.3" Color="{StaticResource fg}"></GradientStop>
+            <GradientStop Offset="0.7" Color="{StaticResource bg}"></GradientStop>
+        </LinearGradientBrush>
+        <!--styles-->
+        <Style TargetType="Button" >
+            <Setter Property="Background" Value="{StaticResource bgSCB}"></Setter>
+            <Setter Property="Foreground" Value="{StaticResource fgToBgLGB}"></Setter>
+            <Setter Property="Width" Value="100"></Setter>
+            <Setter Property="Height" Value="40"></Setter>
+            <Style.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="FontSize" Value="14"></Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Application.Resources>
+</Application>
