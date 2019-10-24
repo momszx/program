@@ -1,0 +1,6 @@
+C:\Users\Momsz\source\repos\Derült égből fasírt\Derült égből fasírt\bin\Debug\Derült égből fasírt.exe.config
+C:\Users\Momsz\source\repos\Derült égből fasírt\Derült égből fasírt\bin\Debug\Derült égből fasírt.exe
+C:\Users\Momsz\source\repos\Derült égből fasírt\Derült égből fasírt\bin\Debug\Derült égből fasírt.pdb
+C:\Users\Momsz\source\repos\Derült égből fasírt\Derült égből fasírt\obj\Debug\Derült égből fasírt.csproj.CoreCompileInputs.cache
+C:\Users\Momsz\source\repos\Derült égből fasírt\Derült égből fasírt\obj\Debug\Derült égből fasírt.exe
+C:\Users\Momsz\source\repos\Derült égből fasírt\Derült égből fasírt\obj\Debug\Derült égből fasírt.pdb

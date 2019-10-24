@@ -1,0 +1,7 @@
+D:\programozás\2018.zh2\2018.zh2\bin\Debug\2018.zh2.exe.config
+D:\programozás\2018.zh2\2018.zh2\bin\Debug\2018.zh2.exe
+D:\programozás\2018.zh2\2018.zh2\bin\Debug\2018.zh2.pdb
+D:\programozás\2018.zh2\2018.zh2\obj\Debug\2018.zh2.csprojAssemblyReference.cache
+D:\programozás\2018.zh2\2018.zh2\obj\Debug\2018.zh2.csproj.CoreCompileInputs.cache
+D:\programozás\2018.zh2\2018.zh2\obj\Debug\2018.zh2.exe
+D:\programozás\2018.zh2\2018.zh2\obj\Debug\2018.zh2.pdb

@@ -1,0 +1,5 @@
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

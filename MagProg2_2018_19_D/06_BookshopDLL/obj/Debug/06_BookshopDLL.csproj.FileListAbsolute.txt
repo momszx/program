@@ -1,0 +1,4 @@
+D:\Troll\MagProg2_2018_19_D\06_BookshopDLL\bin\Debug\06_BookshopDLL.dll
+D:\Troll\MagProg2_2018_19_D\06_BookshopDLL\bin\Debug\06_BookshopDLL.pdb
+D:\Troll\MagProg2_2018_19_D\06_BookshopDLL\obj\Debug\06_BookshopDLL.dll
+D:\Troll\MagProg2_2018_19_D\06_BookshopDLL\obj\Debug\06_BookshopDLL.pdb

@@ -1,0 +1,8 @@
+D:\DMárk\2018.09.20_2\2018.09.20_2\bin\Debug\2018.09.20_2.exe.config
+D:\programozás\2018.09.20_2\2018.09.20_2\bin\Debug\2018.09.20_2.exe.config
+D:\programozás\2018.09.20_2\2018.09.20_2\bin\Debug\2018.09.20_2.exe
+D:\programozás\2018.09.20_2\2018.09.20_2\bin\Debug\2018.09.20_2.pdb
+D:\programozás\2018.09.20_2\2018.09.20_2\obj\Debug\2018.09.20_2.csprojAssemblyReference.cache
+D:\programozás\2018.09.20_2\2018.09.20_2\obj\Debug\2018.09.20_2.csproj.CoreCompileInputs.cache
+D:\programozás\2018.09.20_2\2018.09.20_2\obj\Debug\2018.09.20_2.exe
+D:\programozás\2018.09.20_2\2018.09.20_2\obj\Debug\2018.09.20_2.pdb

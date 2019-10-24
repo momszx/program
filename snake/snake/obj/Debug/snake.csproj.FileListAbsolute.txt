@@ -1,0 +1,5 @@
+D:\DMárk\snake\snake\bin\Debug\snake.exe.config
+D:\DMárk\snake\snake\bin\Debug\snake.exe
+D:\DMárk\snake\snake\bin\Debug\snake.pdb
+D:\DMárk\snake\snake\obj\Debug\snake.exe
+D:\DMárk\snake\snake\obj\Debug\snake.pdb

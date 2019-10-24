@@ -1,0 +1,7 @@
+D:\programozás\wiki-7_uralkodók\wiki-7_uralkodók\bin\Debug\wiki-7_uralkodók.exe.config
+D:\programozás\wiki-7_uralkodók\wiki-7_uralkodók\bin\Debug\wiki-7_uralkodók.exe
+D:\programozás\wiki-7_uralkodók\wiki-7_uralkodók\bin\Debug\wiki-7_uralkodók.pdb
+D:\programozás\wiki-7_uralkodók\wiki-7_uralkodók\obj\Debug\wiki-7_uralkodók.csprojAssemblyReference.cache
+D:\programozás\wiki-7_uralkodók\wiki-7_uralkodók\obj\Debug\wiki-7_uralkodók.csproj.CoreCompileInputs.cache
+D:\programozás\wiki-7_uralkodók\wiki-7_uralkodók\obj\Debug\wiki-7_uralkodók.exe
+D:\programozás\wiki-7_uralkodók\wiki-7_uralkodók\obj\Debug\wiki-7_uralkodók.pdb

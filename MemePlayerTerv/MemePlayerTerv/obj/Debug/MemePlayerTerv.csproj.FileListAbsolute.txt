@@ -1,0 +1,14 @@
+D:\Programok\MemePlayerTerv\MemePlayerTerv\bin\Debug\MemePlayerTerv.exe.config
+D:\Programok\MemePlayerTerv\MemePlayerTerv\bin\Debug\MemePlayerTerv.exe
+D:\Programok\MemePlayerTerv\MemePlayerTerv\bin\Debug\MemePlayerTerv.pdb
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.csprojAssemblyReference.cache
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MainWindow.g.cs
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\App.g.cs
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv_MarkupCompile.cache
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv_MarkupCompile.lref
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MainWindow.baml
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.g.resources
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.Properties.Resources.resources
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.csproj.GenerateResource.cache
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.exe
+D:\Programok\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.pdb

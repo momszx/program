@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_03_WinFormWarcraft" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DirectoryImges" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Images</Value>
+    </Setting>
+    <Setting Name="ImagesPrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">IMG_</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

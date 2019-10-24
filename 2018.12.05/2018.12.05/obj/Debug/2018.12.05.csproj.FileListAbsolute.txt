@@ -1,0 +1,7 @@
+D:\programozás\2018.12.05\2018.12.05\obj\Debug\2018.12.05.csprojAssemblyReference.cache
+D:\programozás\2018.12.05\2018.12.05\obj\Debug\2018.12.05.csproj.CoreCompileInputs.cache
+D:\programozás\2018.12.05\2018.12.05\bin\Debug\2018.12.05.exe.config
+D:\programozás\2018.12.05\2018.12.05\bin\Debug\2018.12.05.exe
+D:\programozás\2018.12.05\2018.12.05\bin\Debug\2018.12.05.pdb
+D:\programozás\2018.12.05\2018.12.05\obj\Debug\2018.12.05.exe
+D:\programozás\2018.12.05\2018.12.05\obj\Debug\2018.12.05.pdb

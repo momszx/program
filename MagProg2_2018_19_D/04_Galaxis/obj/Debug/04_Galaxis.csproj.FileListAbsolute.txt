@@ -1,0 +1,7 @@
+D:\Troll\MagProg2_2018_19_D\04_Galaxis\bin\Debug\04_Galaxis.exe.config
+D:\Troll\MagProg2_2018_19_D\04_Galaxis\bin\Debug\04_Galaxis.exe
+D:\Troll\MagProg2_2018_19_D\04_Galaxis\bin\Debug\04_Galaxis.pdb
+D:\Troll\MagProg2_2018_19_D\04_Galaxis\obj\Debug\04_Galaxis.csprojResolveAssemblyReference.cache
+D:\Troll\MagProg2_2018_19_D\04_Galaxis\obj\Debug\04_Galaxis.exe
+D:\Troll\MagProg2_2018_19_D\04_Galaxis\obj\Debug\04_Galaxis.pdb
+d:\Troll\MagProg2_2018_19_D\04_Galaxis\bin\Debug\Egitestek.csv

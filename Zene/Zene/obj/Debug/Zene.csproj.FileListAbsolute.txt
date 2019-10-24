@@ -1,0 +1,7 @@
+D:\programozás\Zene\Zene\obj\Debug\Zene.csprojAssemblyReference.cache
+D:\programozás\Zene\Zene\obj\Debug\Zene.csproj.CoreCompileInputs.cache
+D:\programozás\Zene\Zene\bin\Debug\Zene.exe.config
+D:\programozás\Zene\Zene\bin\Debug\Zene.exe
+D:\programozás\Zene\Zene\bin\Debug\Zene.pdb
+D:\programozás\Zene\Zene\obj\Debug\Zene.exe
+D:\programozás\Zene\Zene\obj\Debug\Zene.pdb

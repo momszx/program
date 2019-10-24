@@ -1,0 +1,7 @@
+D:\programozás\1.magprog.ZH-5\1.magprog.ZH-5\bin\Debug\1.magprog.ZH-5.exe.config
+D:\programozás\1.magprog.ZH-5\1.magprog.ZH-5\bin\Debug\1.magprog.ZH-5.exe
+D:\programozás\1.magprog.ZH-5\1.magprog.ZH-5\bin\Debug\1.magprog.ZH-5.pdb
+D:\programozás\1.magprog.ZH-5\1.magprog.ZH-5\obj\Debug\1.magprog.ZH-5.csprojAssemblyReference.cache
+D:\programozás\1.magprog.ZH-5\1.magprog.ZH-5\obj\Debug\1.magprog.ZH-5.csproj.CoreCompileInputs.cache
+D:\programozás\1.magprog.ZH-5\1.magprog.ZH-5\obj\Debug\1.magprog.ZH-5.exe
+D:\programozás\1.magprog.ZH-5\1.magprog.ZH-5\obj\Debug\1.magprog.ZH-5.pdb

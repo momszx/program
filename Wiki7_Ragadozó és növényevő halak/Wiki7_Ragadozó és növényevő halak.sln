@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wiki7_Ragadozó és növényevő halak", "Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak.csproj", "{FE011DE2-198E-42AF-8C88-94D29F3B845E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE011DE2-198E-42AF-8C88-94D29F3B845E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE011DE2-198E-42AF-8C88-94D29F3B845E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE011DE2-198E-42AF-8C88-94D29F3B845E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE011DE2-198E-42AF-8C88-94D29F3B845E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FF5E09-D004-4429-97D3-CD02B8D128F2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\programozás\gondoltam\gondoltam\obj\Debug\gondoltam.csprojAssemblyReference.cache
+D:\programozás\gondoltam\gondoltam\obj\Debug\gondoltam.csproj.CoreCompileInputs.cache
+D:\programozás\gondoltam\gondoltam\bin\Debug\gondoltam.exe.config
+D:\programozás\gondoltam\gondoltam\bin\Debug\gondoltam.exe
+D:\programozás\gondoltam\gondoltam\bin\Debug\gondoltam.pdb
+D:\programozás\gondoltam\gondoltam\obj\Debug\gondoltam.exe
+D:\programozás\gondoltam\gondoltam\obj\Debug\gondoltam.pdb

@@ -1,0 +1,5 @@
+D:\Troll\MagProg2_2018_19_D\01_Neptun\bin\Debug\01_Neptun.exe.config
+D:\Troll\MagProg2_2018_19_D\01_Neptun\bin\Debug\01_Neptun.exe
+D:\Troll\MagProg2_2018_19_D\01_Neptun\bin\Debug\01_Neptun.pdb
+D:\Troll\MagProg2_2018_19_D\01_Neptun\obj\Debug\01_Neptun.exe
+D:\Troll\MagProg2_2018_19_D\01_Neptun\obj\Debug\01_Neptun.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "életkor", "életkor\életkor.csproj", "{65BF8744-048F-4188-B1DD-0E3AB1672FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65BF8744-048F-4188-B1DD-0E3AB1672FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BF8744-048F-4188-B1DD-0E3AB1672FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BF8744-048F-4188-B1DD-0E3AB1672FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BF8744-048F-4188-B1DD-0E3AB1672FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66B038B-89B8-4DDC-B53C-40D0D1F30D74}
+	EndGlobalSection
+EndGlobal

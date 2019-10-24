@@ -1,0 +1,6 @@
+D:\DMárk\2018.09.20\2018.09.20\bin\Debug\2018.09.20.exe.config
+D:\DMárk\2018.09.20\2018.09.20\obj\Debug\2018.09.20.exe
+D:\DMárk\2018.09.20\2018.09.20\obj\Debug\2018.09.20.pdb
+D:\DMárk\2018.09.20\2018.09.20\obj\Debug\2018.09.20.csprojResolveAssemblyReference.cache
+D:\DMárk\2018.09.20\2018.09.20\bin\Debug\2018.09.20.exe
+D:\DMárk\2018.09.20\2018.09.20\bin\Debug\2018.09.20.pdb

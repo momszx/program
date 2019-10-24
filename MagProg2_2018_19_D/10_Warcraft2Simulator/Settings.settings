@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_10_Warcraft2Simulator" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APeasantMaxHitPoints" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="APeasantArmor" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="APeasantMovementSpeed" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PeasantImageSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">peasant_nowp.png</Value>
+    </Setting>
+    <Setting Name="PeonImageSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">peon_nowp.png</Value>
+    </Setting>
+    <Setting Name="AWarriorMaxHitPoints" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="AWarriorArmor" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="AWarriorMovementSpeed" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="FootmanImageSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">footman.png</Value>
+    </Setting>
+    <Setting Name="GruntImageSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">grunt.png</Value>
+    </Setting>
+    <Setting Name="TreeImageSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wow2_128.png</Value>
+    </Setting>
+    <Setting Name="GrassImageSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wow2_256.png</Value>
+    </Setting>
+    <Setting Name="WaterImageSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wow2_301.png</Value>
+    </Setting>
+    <Setting Name="DrawUnit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="AWarriorDamage" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AWarriorRange" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,6 @@
+D:\Troll\MagProg2_2018_19_D\05_ZH1_SW_Klon\bin\Debug\05_ZH1_SW_Klon.exe.config
+d:\Troll\MagProg2_2018_19_D\05_ZH1_SW_Klon\obj\Debug\05_ZH1_SW_Klon.csprojResolveAssemblyReference.cache
+d:\Troll\MagProg2_2018_19_D\05_ZH1_SW_Klon\bin\Debug\05_ZH1_SW_Klon.exe
+d:\Troll\MagProg2_2018_19_D\05_ZH1_SW_Klon\bin\Debug\05_ZH1_SW_Klon.pdb
+d:\Troll\MagProg2_2018_19_D\05_ZH1_SW_Klon\obj\Debug\05_ZH1_SW_Klon.exe
+d:\Troll\MagProg2_2018_19_D\05_ZH1_SW_Klon\obj\Debug\05_ZH1_SW_Klon.pdb

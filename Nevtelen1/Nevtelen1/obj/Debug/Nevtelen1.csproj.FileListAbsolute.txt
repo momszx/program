@@ -1,0 +1,12 @@
+D:\DMárk\Nevtelen1\Nevtelen1\bin\Debug\Nevtelen1.exe.config
+D:\DMárk\Nevtelen1\Nevtelen1\bin\Debug\Nevtelen1.exe
+D:\DMárk\Nevtelen1\Nevtelen1\bin\Debug\Nevtelen1.pdb
+D:\DMárk\Nevtelen1\Nevtelen1\obj\Debug\Nevtelen1.exe
+D:\DMárk\Nevtelen1\Nevtelen1\obj\Debug\Nevtelen1.pdb
+D:\programozás\Nevtelen1\Nevtelen1\bin\Debug\Nevtelen1.exe.config
+D:\programozás\Nevtelen1\Nevtelen1\bin\Debug\Nevtelen1.exe
+D:\programozás\Nevtelen1\Nevtelen1\bin\Debug\Nevtelen1.pdb
+D:\programozás\Nevtelen1\Nevtelen1\obj\Debug\Nevtelen1.csprojAssemblyReference.cache
+D:\programozás\Nevtelen1\Nevtelen1\obj\Debug\Nevtelen1.csproj.CoreCompileInputs.cache
+D:\programozás\Nevtelen1\Nevtelen1\obj\Debug\Nevtelen1.exe
+D:\programozás\Nevtelen1\Nevtelen1\obj\Debug\Nevtelen1.pdb

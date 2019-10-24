@@ -1,0 +1,7 @@
+D:\programozás\Wiki7-teglalapl-generelos-f\Wiki7-teglalapl-generelos-f\bin\Debug\Wiki7-teglalapl-generelos-f.exe.config
+D:\programozás\Wiki7-teglalapl-generelos-f\Wiki7-teglalapl-generelos-f\bin\Debug\Wiki7-teglalapl-generelos-f.exe
+D:\programozás\Wiki7-teglalapl-generelos-f\Wiki7-teglalapl-generelos-f\bin\Debug\Wiki7-teglalapl-generelos-f.pdb
+D:\programozás\Wiki7-teglalapl-generelos-f\Wiki7-teglalapl-generelos-f\obj\Debug\Wiki7-teglalapl-generelos-f.csprojAssemblyReference.cache
+D:\programozás\Wiki7-teglalapl-generelos-f\Wiki7-teglalapl-generelos-f\obj\Debug\Wiki7-teglalapl-generelos-f.csproj.CoreCompileInputs.cache
+D:\programozás\Wiki7-teglalapl-generelos-f\Wiki7-teglalapl-generelos-f\obj\Debug\Wiki7-teglalapl-generelos-f.exe
+D:\programozás\Wiki7-teglalapl-generelos-f\Wiki7-teglalapl-generelos-f\obj\Debug\Wiki7-teglalapl-generelos-f.pdb

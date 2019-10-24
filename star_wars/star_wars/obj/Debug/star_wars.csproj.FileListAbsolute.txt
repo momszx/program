@@ -1,0 +1,7 @@
+D:\programozás\star_wars\star_wars\bin\Debug\star_wars.exe.config
+D:\programozás\star_wars\star_wars\bin\Debug\star_wars.exe
+D:\programozás\star_wars\star_wars\bin\Debug\star_wars.pdb
+D:\programozás\star_wars\star_wars\obj\Debug\star_wars.csprojAssemblyReference.cache
+D:\programozás\star_wars\star_wars\obj\Debug\star_wars.csproj.CoreCompileInputs.cache
+D:\programozás\star_wars\star_wars\obj\Debug\star_wars.exe
+D:\programozás\star_wars\star_wars\obj\Debug\star_wars.pdb

@@ -1,0 +1,7 @@
+D:\programozás\euklideszi_algoritmus\euklideszi_algoritmus\bin\Debug\euklideszi_algoritmus.exe.config
+D:\programozás\euklideszi_algoritmus\euklideszi_algoritmus\bin\Debug\euklideszi_algoritmus.exe
+D:\programozás\euklideszi_algoritmus\euklideszi_algoritmus\bin\Debug\euklideszi_algoritmus.pdb
+D:\programozás\euklideszi_algoritmus\euklideszi_algoritmus\obj\Debug\euklideszi_algoritmus.csprojAssemblyReference.cache
+D:\programozás\euklideszi_algoritmus\euklideszi_algoritmus\obj\Debug\euklideszi_algoritmus.csproj.CoreCompileInputs.cache
+D:\programozás\euklideszi_algoritmus\euklideszi_algoritmus\obj\Debug\euklideszi_algoritmus.exe
+D:\programozás\euklideszi_algoritmus\euklideszi_algoritmus\obj\Debug\euklideszi_algoritmus.pdb

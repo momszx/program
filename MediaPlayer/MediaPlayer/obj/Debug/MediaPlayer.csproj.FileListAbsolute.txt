@@ -12,3 +12,17 @@ D:\Programozás\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resourc
 D:\Programozás\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
 D:\Programozás\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
 D:\Programozás\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\Git\program\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\Git\program\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\Git\program\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\Git\program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb

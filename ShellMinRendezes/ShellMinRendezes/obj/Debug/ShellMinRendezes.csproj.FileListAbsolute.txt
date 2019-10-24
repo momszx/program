@@ -1,0 +1,7 @@
+D:\Programozás\ShellMinRendezes\ShellMinRendezes\bin\Debug\ShellMinRendezes.exe.config
+D:\Programozás\ShellMinRendezes\ShellMinRendezes\bin\Debug\ShellMinRendezes.exe
+D:\Programozás\ShellMinRendezes\ShellMinRendezes\bin\Debug\ShellMinRendezes.pdb
+D:\Programozás\ShellMinRendezes\ShellMinRendezes\obj\Debug\ShellMinRendezes.csprojAssemblyReference.cache
+D:\Programozás\ShellMinRendezes\ShellMinRendezes\obj\Debug\ShellMinRendezes.csproj.CoreCompileInputs.cache
+D:\Programozás\ShellMinRendezes\ShellMinRendezes\obj\Debug\ShellMinRendezes.exe
+D:\Programozás\ShellMinRendezes\ShellMinRendezes\obj\Debug\ShellMinRendezes.pdb

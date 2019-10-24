@@ -1,0 +1,10 @@
+Megirni egy olyan programot ami kitalálja a számot amire gondoltál 
+gondoltam 68
+kérdez a program egy számot pl 50 válasz nem és szûkít
+válasz nem 
+kérdez a program egy számot pl 75 válasz nem és szûkít
+
+
+
+
+megirni a összes feladatot while ciklusseal

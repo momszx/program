@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_05_ZH1_SW_Klon" GeneratedClassName="Beallitasok">
+  <Profiles />
+  <Settings>
+    <Setting Name="AzonositoMin" Type="System.UInt32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="NevHossz" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="KikepzesIdejeMin" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="KikepzesIdejeMax" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TalalatiPontossagMin" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="TalalatiPontossagMax" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="SzarazfoldiPrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Szárazföldi</Value>
+    </Setting>
+    <Setting Name="PilotaSuffix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Pilóta</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

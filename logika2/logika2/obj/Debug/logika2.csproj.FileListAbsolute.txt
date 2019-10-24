@@ -1,0 +1,7 @@
+D:\programozás\logika2\logika2\bin\Debug\logika2.exe.config
+D:\programozás\logika2\logika2\bin\Debug\logika2.exe
+D:\programozás\logika2\logika2\bin\Debug\logika2.pdb
+D:\programozás\logika2\logika2\obj\Debug\logika2.csprojAssemblyReference.cache
+D:\programozás\logika2\logika2\obj\Debug\logika2.csproj.CoreCompileInputs.cache
+D:\programozás\logika2\logika2\obj\Debug\logika2.exe
+D:\programozás\logika2\logika2\obj\Debug\logika2.pdb

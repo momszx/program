@@ -1,0 +1,7 @@
+D:\programozás\párbeszéd\párbeszéd\bin\Debug\párbeszéd.exe.config
+D:\programozás\párbeszéd\párbeszéd\bin\Debug\párbeszéd.exe
+D:\programozás\párbeszéd\párbeszéd\bin\Debug\párbeszéd.pdb
+D:\programozás\párbeszéd\párbeszéd\obj\Debug\párbeszéd.csprojAssemblyReference.cache
+D:\programozás\párbeszéd\párbeszéd\obj\Debug\párbeszéd.csproj.CoreCompileInputs.cache
+D:\programozás\párbeszéd\párbeszéd\obj\Debug\párbeszéd.exe
+D:\programozás\párbeszéd\párbeszéd\obj\Debug\párbeszéd.pdb

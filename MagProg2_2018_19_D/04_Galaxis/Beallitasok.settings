@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_04_Galaxis" GeneratedClassName="Beallitasok">
+  <Profiles />
+  <Settings>
+    <Setting Name="MaxEgitestEletkor" Type="System.UInt16" Scope="Application">
+      <Value Profile="(Default)">13600</Value>
+    </Setting>
+    <Setting Name="MinCsillagAtmero" Type="System.Single" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MaxCsillagAtmero" Type="System.Single" Scope="Application">
+      <Value Profile="(Default)">1420</Value>
+    </Setting>
+    <Setting Name="MinBolygoKeringesiTavolsag" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.37</Value>
+    </Setting>
+    <Setting Name="MaxBolygoKeringesiTavolsag" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">30.07</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,4 @@
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleApplication1\ConsoleDrawing\obj\Debug\ConsoleApplication1.exe
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleApplication1\ConsoleDrawing\obj\Debug\ConsoleApplication1.pdb
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleDrawing\ConsoleDrawing\obj\Debug\ConsoleApplication1.exe
+D:\SENER\ARGE_YAZILIM\PROJELER\ConsoleDrawing\ConsoleDrawing\obj\Debug\ConsoleApplication1.pdb

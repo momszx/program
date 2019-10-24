@@ -1,0 +1,7 @@
+D:\programozás\életkor\életkor\obj\Debug\életkor.csprojAssemblyReference.cache
+D:\programozás\életkor\életkor\obj\Debug\életkor.csproj.CoreCompileInputs.cache
+D:\programozás\életkor\életkor\bin\Debug\életkor.exe.config
+D:\programozás\életkor\életkor\bin\Debug\életkor.exe
+D:\programozás\életkor\életkor\bin\Debug\életkor.pdb
+D:\programozás\életkor\életkor\obj\Debug\életkor.exe
+D:\programozás\életkor\életkor\obj\Debug\életkor.pdb

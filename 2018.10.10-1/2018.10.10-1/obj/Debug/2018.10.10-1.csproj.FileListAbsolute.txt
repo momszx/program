@@ -1,0 +1,13 @@
+D:\DMárk\2018.10.10-1\2018.10.10-1\bin\Debug\2018.10.10-1.exe.config
+D:\DMárk\2018.10.10-1\2018.10.10-1\bin\Debug\2018.10.10-1.exe
+D:\DMárk\2018.10.10-1\2018.10.10-1\bin\Debug\2018.10.10-1.pdb
+D:\DMárk\2018.10.10-1\2018.10.10-1\obj\Debug\2018.10.10-1.csprojResolveAssemblyReference.cache
+D:\DMárk\2018.10.10-1\2018.10.10-1\obj\Debug\2018.10.10-1.exe
+D:\DMárk\2018.10.10-1\2018.10.10-1\obj\Debug\2018.10.10-1.pdb
+D:\programozás\2018.10.10-1\2018.10.10-1\bin\Debug\2018.10.10-1.exe.config
+D:\programozás\2018.10.10-1\2018.10.10-1\bin\Debug\2018.10.10-1.exe
+D:\programozás\2018.10.10-1\2018.10.10-1\bin\Debug\2018.10.10-1.pdb
+D:\programozás\2018.10.10-1\2018.10.10-1\obj\Debug\2018.10.10-1.csprojAssemblyReference.cache
+D:\programozás\2018.10.10-1\2018.10.10-1\obj\Debug\2018.10.10-1.csproj.CoreCompileInputs.cache
+D:\programozás\2018.10.10-1\2018.10.10-1\obj\Debug\2018.10.10-1.exe
+D:\programozás\2018.10.10-1\2018.10.10-1\obj\Debug\2018.10.10-1.pdb

@@ -1,0 +1,7 @@
+D:\D.Márk\MagProg2_2018_19_D\_01_Neptun\bin\Debug\_01_Neptun.exe.config
+D:\D.Márk\MagProg2_2018_19_D\_01_Neptun\bin\Debug\_01_Neptun.exe
+D:\D.Márk\MagProg2_2018_19_D\_01_Neptun\bin\Debug\_01_Neptun.pdb
+D:\D.Márk\MagProg2_2018_19_D\_01_Neptun\obj\Debug\_01_Neptun.exe
+D:\D.Márk\MagProg2_2018_19_D\_01_Neptun\obj\Debug\_01_Neptun.pdb
+D:\D.Márk\MagProg2_2018_19_D\_01_Neptun\obj\Debug\_01_Neptun.csprojAssemblyReference.cache
+D:\D.Márk\MagProg2_2018_19_D\_01_Neptun\obj\Debug\_01_Neptun.csproj.CoreCompileInputs.cache

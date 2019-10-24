@@ -1,0 +1,5 @@
+1. elágazásal meg kell vizsgálni melyik a nagyobb
+2. elágazás logikai érték csak igen nemmel lehet válaszolni
+3. tömbök véletlen számmal feltölteni
+4. bonyolultam if , else if :D
+5. while ciklus valamilyen feltételel 

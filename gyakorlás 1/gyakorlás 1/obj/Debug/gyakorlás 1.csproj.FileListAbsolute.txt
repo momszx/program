@@ -1,0 +1,7 @@
+D:\programozás\gyakorlás 1\gyakorlás 1\bin\Debug\gyakorlás 1.exe.config
+D:\programozás\gyakorlás 1\gyakorlás 1\bin\Debug\gyakorlás 1.exe
+D:\programozás\gyakorlás 1\gyakorlás 1\bin\Debug\gyakorlás 1.pdb
+D:\programozás\gyakorlás 1\gyakorlás 1\obj\Debug\gyakorlás 1.csprojAssemblyReference.cache
+D:\programozás\gyakorlás 1\gyakorlás 1\obj\Debug\gyakorlás 1.csproj.CoreCompileInputs.cache
+D:\programozás\gyakorlás 1\gyakorlás 1\obj\Debug\gyakorlás 1.exe
+D:\programozás\gyakorlás 1\gyakorlás 1\obj\Debug\gyakorlás 1.pdb

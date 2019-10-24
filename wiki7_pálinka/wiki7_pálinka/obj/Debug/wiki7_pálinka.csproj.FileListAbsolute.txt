@@ -1,0 +1,7 @@
+D:\programozás\wiki7_pálinka\wiki7_pálinka\bin\Debug\wiki7_pálinka.exe.config
+D:\programozás\wiki7_pálinka\wiki7_pálinka\bin\Debug\wiki7_pálinka.exe
+D:\programozás\wiki7_pálinka\wiki7_pálinka\bin\Debug\wiki7_pálinka.pdb
+D:\programozás\wiki7_pálinka\wiki7_pálinka\obj\Debug\wiki7_pálinka.csprojAssemblyReference.cache
+D:\programozás\wiki7_pálinka\wiki7_pálinka\obj\Debug\wiki7_pálinka.csproj.CoreCompileInputs.cache
+D:\programozás\wiki7_pálinka\wiki7_pálinka\obj\Debug\wiki7_pálinka.exe
+D:\programozás\wiki7_pálinka\wiki7_pálinka\obj\Debug\wiki7_pálinka.pdb

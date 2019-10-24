@@ -1,0 +1,7 @@
+D:\programozás\Nevjegy_DMárk\Nevjegy_DMárk\obj\Debug\Nevjegy_DMárk.csprojAssemblyReference.cache
+D:\programozás\Nevjegy_DMárk\Nevjegy_DMárk\obj\Debug\Nevjegy_DMárk.csproj.CoreCompileInputs.cache
+D:\programozás\Nevjegy_DMárk\Nevjegy_DMárk\bin\Debug\Nevjegy_DMárk.exe.config
+D:\programozás\Nevjegy_DMárk\Nevjegy_DMárk\bin\Debug\Nevjegy_DMárk.exe
+D:\programozás\Nevjegy_DMárk\Nevjegy_DMárk\bin\Debug\Nevjegy_DMárk.pdb
+D:\programozás\Nevjegy_DMárk\Nevjegy_DMárk\obj\Debug\Nevjegy_DMárk.exe
+D:\programozás\Nevjegy_DMárk\Nevjegy_DMárk\obj\Debug\Nevjegy_DMárk.pdb

@@ -1,0 +1,7 @@
+D:\programozás\szamkirov\szamkirov\bin\Debug\szamkirov.exe.config
+D:\programozás\szamkirov\szamkirov\bin\Debug\szamkirov.exe
+D:\programozás\szamkirov\szamkirov\bin\Debug\szamkirov.pdb
+D:\programozás\szamkirov\szamkirov\obj\Debug\szamkirov.csprojAssemblyReference.cache
+D:\programozás\szamkirov\szamkirov\obj\Debug\szamkirov.csproj.CoreCompileInputs.cache
+D:\programozás\szamkirov\szamkirov\obj\Debug\szamkirov.exe
+D:\programozás\szamkirov\szamkirov\obj\Debug\szamkirov.pdb

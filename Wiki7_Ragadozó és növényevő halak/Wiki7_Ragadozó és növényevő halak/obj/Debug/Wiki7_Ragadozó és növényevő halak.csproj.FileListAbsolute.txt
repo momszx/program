@@ -1,0 +1,7 @@
+D:\programozás\Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak\bin\Debug\Wiki7_Ragadozó és növényevő halak.exe.config
+D:\programozás\Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak\bin\Debug\Wiki7_Ragadozó és növényevő halak.exe
+D:\programozás\Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak\bin\Debug\Wiki7_Ragadozó és növényevő halak.pdb
+D:\programozás\Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak\obj\Debug\Wiki7_Ragadozó és növényevő halak.csprojAssemblyReference.cache
+D:\programozás\Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak\obj\Debug\Wiki7_Ragadozó és növényevő halak.csproj.CoreCompileInputs.cache
+D:\programozás\Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak\obj\Debug\Wiki7_Ragadozó és növényevő halak.exe
+D:\programozás\Wiki7_Ragadozó és növényevő halak\Wiki7_Ragadozó és növényevő halak\obj\Debug\Wiki7_Ragadozó és növényevő halak.pdb

@@ -1,0 +1,7 @@
+D:\programozás\állatkert\állatkert\bin\Debug\állatkert.exe.config
+D:\programozás\állatkert\állatkert\bin\Debug\állatkert.exe
+D:\programozás\állatkert\állatkert\bin\Debug\állatkert.pdb
+D:\programozás\állatkert\állatkert\obj\Debug\állatkert.csprojAssemblyReference.cache
+D:\programozás\állatkert\állatkert\obj\Debug\állatkert.csproj.CoreCompileInputs.cache
+D:\programozás\állatkert\állatkert\obj\Debug\állatkert.exe
+D:\programozás\állatkert\állatkert\obj\Debug\állatkert.pdb

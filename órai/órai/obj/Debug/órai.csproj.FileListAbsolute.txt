@@ -1,0 +1,7 @@
+D:\programozás\órai\órai\bin\Debug\órai.exe.config
+D:\programozás\órai\órai\bin\Debug\órai.exe
+D:\programozás\órai\órai\bin\Debug\órai.pdb
+D:\programozás\órai\órai\obj\Debug\órai.csprojAssemblyReference.cache
+D:\programozás\órai\órai\obj\Debug\órai.csproj.CoreCompileInputs.cache
+D:\programozás\órai\órai\obj\Debug\órai.exe
+D:\programozás\órai\órai\obj\Debug\órai.pdb

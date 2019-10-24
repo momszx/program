@@ -1,0 +1,25 @@
+C:\Temp\SW_zh\SW_zh\bin\Debug\SW_zh.exe.config
+C:\Temp\SW_zh\SW_zh\bin\Debug\SW_zh.exe
+C:\Temp\SW_zh\SW_zh\bin\Debug\SW_zh.pdb
+C:\Temp\SW_zh\SW_zh\obj\Debug\SW_zh.csprojResolveAssemblyReference.cache
+C:\Temp\SW_zh\SW_zh\obj\Debug\SW_zh.exe
+C:\Temp\SW_zh\SW_zh\obj\Debug\SW_zh.pdb
+c:\Temp\SW_zh JEDI\SW_zh\bin\Debug\SW_zh.exe.config
+c:\Temp\SW_zh JEDI\SW_zh\obj\Debug\SW_zh.exe
+c:\Temp\SW_zh JEDI\SW_zh\obj\Debug\SW_zh.pdb
+c:\Temp\SW_zh JEDI\SW_zh\obj\Debug\SW_zh.csprojResolveAssemblyReference.cache
+c:\Temp\SW_zh JEDI\SW_zh\bin\Debug\SW_zh.exe
+c:\Temp\SW_zh JEDI\SW_zh\bin\Debug\SW_zh.pdb
+c:\Temp\SW_zh SITH\SW_zh\bin\Debug\SW_zh.exe.config
+c:\Temp\SW_zh SITH\SW_zh\obj\Debug\SW_zh.exe
+c:\Temp\SW_zh SITH\SW_zh\obj\Debug\SW_zh.pdb
+c:\Temp\SW_zh SITH\SW_zh\bin\Debug\SW_zh.exe
+c:\Temp\SW_zh SITH\SW_zh\bin\Debug\SW_zh.pdb
+c:\Temp\SW_zh SITH\SW_zh\obj\Debug\SW_zh.csprojResolveAssemblyReference.cache
+D:\Programozás\Prog2 - ZH2 (minta)\SW_zh SITH\SW_zh\bin\Debug\SW_zh.exe.config
+D:\Programozás\Prog2 - ZH2 (minta)\SW_zh SITH\SW_zh\bin\Debug\SW_zh.exe
+D:\Programozás\Prog2 - ZH2 (minta)\SW_zh SITH\SW_zh\bin\Debug\SW_zh.pdb
+D:\Programozás\Prog2 - ZH2 (minta)\SW_zh SITH\SW_zh\obj\Debug\SW_zh.csprojAssemblyReference.cache
+D:\Programozás\Prog2 - ZH2 (minta)\SW_zh SITH\SW_zh\obj\Debug\SW_zh.csproj.CoreCompileInputs.cache
+D:\Programozás\Prog2 - ZH2 (minta)\SW_zh SITH\SW_zh\obj\Debug\SW_zh.exe
+D:\Programozás\Prog2 - ZH2 (minta)\SW_zh SITH\SW_zh\obj\Debug\SW_zh.pdb

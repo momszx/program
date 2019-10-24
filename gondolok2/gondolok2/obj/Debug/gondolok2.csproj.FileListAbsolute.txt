@@ -1,0 +1,7 @@
+D:\programozás\gondolok2\gondolok2\bin\Debug\gondolok2.exe.config
+D:\programozás\gondolok2\gondolok2\bin\Debug\gondolok2.exe
+D:\programozás\gondolok2\gondolok2\bin\Debug\gondolok2.pdb
+D:\programozás\gondolok2\gondolok2\obj\Debug\gondolok2.csprojAssemblyReference.cache
+D:\programozás\gondolok2\gondolok2\obj\Debug\gondolok2.csproj.CoreCompileInputs.cache
+D:\programozás\gondolok2\gondolok2\obj\Debug\gondolok2.exe
+D:\programozás\gondolok2\gondolok2\obj\Debug\gondolok2.pdb

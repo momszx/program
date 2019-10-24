@@ -1,0 +1,7 @@
+D:\programozás\Algebra_Trigonometria\Algebra_Trigonometria\bin\Debug\Algebra_Trigonometria.exe.config
+D:\programozás\Algebra_Trigonometria\Algebra_Trigonometria\bin\Debug\Algebra_Trigonometria.exe
+D:\programozás\Algebra_Trigonometria\Algebra_Trigonometria\bin\Debug\Algebra_Trigonometria.pdb
+D:\programozás\Algebra_Trigonometria\Algebra_Trigonometria\obj\Debug\Algebra_Trigonometria.csprojAssemblyReference.cache
+D:\programozás\Algebra_Trigonometria\Algebra_Trigonometria\obj\Debug\Algebra_Trigonometria.csproj.CoreCompileInputs.cache
+D:\programozás\Algebra_Trigonometria\Algebra_Trigonometria\obj\Debug\Algebra_Trigonometria.exe
+D:\programozás\Algebra_Trigonometria\Algebra_Trigonometria\obj\Debug\Algebra_Trigonometria.pdb
