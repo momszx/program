@@ -27,11 +27,8 @@
             <Slider x:Name="sldVoule" Width="100" ValueChanged="sldVoule_ValueChanged" VerticalAlignment="Center" RenderTransformOrigin="0.551,0.819"/>
             <Label x:Name="lblVolume"/>
         </StackPanel>
-        <StackPanel x:Name="GombokHelye" Height="60" DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
+        <StackPanel x:Name="minden" Orientation="Horizontal" HorizontalAlignment="Center">
 
-        </StackPanel>
-        <StackPanel x:Name="MediakHelye"  DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
-            <MediaElement  VerticalAlignment="Top" x:Name="media" LoadedBehavior="Manual"/>
         </StackPanel>
         
         

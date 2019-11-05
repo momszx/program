@@ -29,17 +29,32 @@ namespace MemePlayerTerv
             string sor;
             while ((sor = sr.ReadLine()) != null)
             {
+                
                 List<string> gombok = new List<string>(sor.Split(';'));
+                Thickness thickness = new Thickness(20,5,20,5);
+                StackPanel panel = new StackPanel();
+                panel.Name = gombok[0];
                 Button b = new Button();
                 b.Name = gombok[0];
                 b.Content = gombok[1];
-                b.Height = 20;
-                //b.Width = 30;
-                b.Click += (source, e) =>
+                b.Margin = thickness;
+                MediaElement m = new MediaElement();
+                m.Name = gombok[2];
+                Uri uri = new Uri( @"D:\Git\program\MemePlayerTerv\MemePlayerTerv\bin\Debug\Video\test.mkv");
+                m.Source = uri;
+                m.Width = 200;
+                m.Margin = thickness;
+                m.LoadedBehavior = MediaState.Manual;
+                m.Stop();
+                b.Click += (s, e) =>
                 {
-                    media.Source = gombok[3].; 
+                    m.Play();
                 };
-                GombokHelye.Children.Add(b);
+                minden.Children.Add(panel);
+                panel.Children.Add(m);
+                panel.Children.Add(b);
+
+
             }
         }
 
