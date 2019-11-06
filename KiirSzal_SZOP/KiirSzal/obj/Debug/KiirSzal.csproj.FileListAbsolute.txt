@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\KiirSzal\KiirSzal\bin\Debug\KiirSzal.exe.config
+C:\Users\user\Desktop\KiirSzal\KiirSzal\bin\Debug\KiirSzal.exe
+C:\Users\user\Desktop\KiirSzal\KiirSzal\bin\Debug\KiirSzal.pdb
+C:\Users\user\Desktop\KiirSzal\KiirSzal\obj\Debug\KiirSzal.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KiirSzal\KiirSzal\obj\Debug\KiirSzal.exe
+C:\Users\user\Desktop\KiirSzal\KiirSzal\obj\Debug\KiirSzal.pdb
+C:\Users\S\Desktop\KiirSzal\KiirSzal\bin\Debug\KiirSzal.exe.config
+C:\Users\S\Desktop\KiirSzal\KiirSzal\bin\Debug\KiirSzal.exe
+C:\Users\S\Desktop\KiirSzal\KiirSzal\bin\Debug\KiirSzal.pdb
+C:\Users\S\Desktop\KiirSzal\KiirSzal\obj\Debug\KiirSzal.csprojAssemblyReference.cache
+C:\Users\S\Desktop\KiirSzal\KiirSzal\obj\Debug\KiirSzal.csproj.CoreCompileInputs.cache
+C:\Users\S\Desktop\KiirSzal\KiirSzal\obj\Debug\KiirSzal.exe
+C:\Users\S\Desktop\KiirSzal\KiirSzal\obj\Debug\KiirSzal.pdb
