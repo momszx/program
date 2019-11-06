@@ -1,0 +1,5 @@
+D:\Git\program\TermelőFogyasztó\TermeloFogyszto2\bin\Debug\TermeloFogyszto2.exe.config
+D:\Git\program\TermelőFogyasztó\TermeloFogyszto2\bin\Debug\TermeloFogyszto2.exe
+D:\Git\program\TermelőFogyasztó\TermeloFogyszto2\bin\Debug\TermeloFogyszto2.pdb
+D:\Git\program\TermelőFogyasztó\TermeloFogyszto2\obj\Debug\TermeloFogyszto2.exe
+D:\Git\program\TermelőFogyasztó\TermeloFogyszto2\obj\Debug\TermeloFogyszto2.pdb

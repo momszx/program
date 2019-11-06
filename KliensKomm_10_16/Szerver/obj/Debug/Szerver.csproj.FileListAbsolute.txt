@@ -10,3 +10,9 @@ D:\Programozás\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb
 D:\Programozás\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojAssemblyReference.cache
 D:\Programozás\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
 D:\Programozás\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb
+D:\Git\program\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe.config
+D:\Git\program\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe
+D:\Git\program\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb
+D:\Git\program\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojAssemblyReference.cache
+D:\Git\program\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
+D:\Git\program\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb

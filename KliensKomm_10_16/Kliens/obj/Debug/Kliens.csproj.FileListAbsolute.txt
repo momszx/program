@@ -9,3 +9,9 @@ D:\Programozás\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
 D:\Programozás\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csprojAssemblyReference.cache
 D:\Programozás\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
 D:\Programozás\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
+D:\Git\program\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+D:\Git\program\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+D:\Git\program\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+D:\Git\program\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csprojAssemblyReference.cache
+D:\Git\program\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+D:\Git\program\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
