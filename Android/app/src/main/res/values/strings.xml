@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VegreElsoGyakorlat</string>
+    <string name="felhaszn_l_n_v">Felhasználónév</string>
+    <string name="jelsz">Jelszó :</string>
+    <string name="jelsz_">Jelszó</string>
+    <string name="bejelentkez_s">Bejelentkezés</string>
+</resources>
