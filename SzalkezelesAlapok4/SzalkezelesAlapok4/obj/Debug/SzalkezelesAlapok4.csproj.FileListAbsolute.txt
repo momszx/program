@@ -1,0 +1,6 @@
+D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapok4.exe.config
+D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.csprojResolveAssemblyReference.cache
+D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapok4.exe
+D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapok4.pdb
+D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.exe
+D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.pdb

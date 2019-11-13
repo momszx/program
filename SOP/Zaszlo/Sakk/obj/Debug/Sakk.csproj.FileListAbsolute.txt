@@ -1,0 +1,5 @@
+D:\SOP\Zaszlo\Sakk\bin\Debug\Sakk.exe.config
+D:\SOP\Zaszlo\Sakk\bin\Debug\Sakk.exe
+D:\SOP\Zaszlo\Sakk\bin\Debug\Sakk.pdb
+D:\SOP\Zaszlo\Sakk\obj\Debug\Sakk.exe
+D:\SOP\Zaszlo\Sakk\obj\Debug\Sakk.pdb

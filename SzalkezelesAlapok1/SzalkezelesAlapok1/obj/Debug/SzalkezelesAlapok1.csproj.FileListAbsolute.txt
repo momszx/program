@@ -1,0 +1,7 @@
+D:\Donkó Márk\SzalkezelesAlapok1\SzalkezelesAlapok1\bin\Debug\SzalkezelesAlapok1.exe.config
+C:\Users\momsz\Desktop\Új mappa\SzalkezelesAlapok1\SzalkezelesAlapok1\bin\Debug\SzalkezelesAlapok1.exe.config
+C:\Users\momsz\Desktop\Új mappa\SzalkezelesAlapok1\SzalkezelesAlapok1\bin\Debug\SzalkezelesAlapok1.exe
+C:\Users\momsz\Desktop\Új mappa\SzalkezelesAlapok1\SzalkezelesAlapok1\bin\Debug\SzalkezelesAlapok1.pdb
+C:\Users\momsz\Desktop\Új mappa\SzalkezelesAlapok1\SzalkezelesAlapok1\obj\Debug\SzalkezelesAlapok1.csprojAssemblyReference.cache
+C:\Users\momsz\Desktop\Új mappa\SzalkezelesAlapok1\SzalkezelesAlapok1\obj\Debug\SzalkezelesAlapok1.exe
+C:\Users\momsz\Desktop\Új mappa\SzalkezelesAlapok1\SzalkezelesAlapok1\obj\Debug\SzalkezelesAlapok1.pdb

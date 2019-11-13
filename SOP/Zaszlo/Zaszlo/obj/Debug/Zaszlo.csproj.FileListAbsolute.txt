@@ -1,0 +1,6 @@
+D:\SOP\Zaszlo\Zaszlo\bin\Debug\Zaszlo.exe.config
+D:\SOP\Zaszlo\Zaszlo\bin\Debug\Zaszlo.exe
+D:\SOP\Zaszlo\Zaszlo\bin\Debug\Zaszlo.pdb
+D:\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.csprojResolveAssemblyReference.cache
+D:\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.exe
+D:\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.pdb

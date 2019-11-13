@@ -1,0 +1,6 @@
+D:\SOP\Zaszlo\Labda\bin\Debug\Labda.exe.config
+D:\SOP\Zaszlo\Labda\bin\Debug\Labda.exe
+D:\SOP\Zaszlo\Labda\bin\Debug\Labda.pdb
+D:\SOP\Zaszlo\Labda\obj\Debug\Labda.csprojResolveAssemblyReference.cache
+D:\SOP\Zaszlo\Labda\obj\Debug\Labda.exe
+D:\SOP\Zaszlo\Labda\obj\Debug\Labda.pdb
