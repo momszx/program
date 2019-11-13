@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:MemePlayerTerv"
         mc:Ignorable="d"
         Title="Meme music player 2019"  WindowStartupLocation="CenterScreen" WindowState="Maximized" Background="#FF363636">
-    <DockPanel>
+    <DockPanel x:Name="DockPanel_">
         <StackPanel x:Name="controlPanel" Height="60" DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
             <Button x:Name="btnPlay" Margin="0,0,10,0" Width="30"  Click="btnPlay_Click" Height="30" BorderBrush="#00707070">
                 <Button.Background>
@@ -28,9 +28,6 @@
             <Label x:Name="lblVolume"/>
         </StackPanel>
         <StackPanel x:Name="minden" Orientation="Horizontal" HorizontalAlignment="Center">
-
         </StackPanel>
-        
-        
     </DockPanel>
 </Window>

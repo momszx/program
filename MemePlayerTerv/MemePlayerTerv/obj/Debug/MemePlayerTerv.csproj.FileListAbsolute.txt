@@ -26,3 +26,5 @@ D:\Git\program\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.Properties
 D:\Git\program\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.csproj.GenerateResource.cache
 D:\Git\program\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.exe
 D:\Git\program\MemePlayerTerv\MemePlayerTerv\obj\Debug\MemePlayerTerv.pdb
+D:\Git\program\MemePlayerTerv\MemePlayerTerv\obj\Debug\Simple Styles.baml
+D:\Git\program\MemePlayerTerv\MemePlayerTerv\obj\Debug\App.baml

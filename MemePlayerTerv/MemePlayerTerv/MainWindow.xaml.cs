@@ -22,16 +22,23 @@ namespace MemePlayerTerv
     /// </summary>
     public partial class MainWindow : Window
     {
+        public MediaElement media = new MediaElement();
         public MainWindow()
         {
             InitializeComponent();
             StreamReader sr = new StreamReader(@"gombok.csv");
             string sor;
+
             while ((sor = sr.ReadLine()) != null)
             {
-                
+                int seged = 0;
                 List<string> gombok = new List<string>(sor.Split(';'));
-                Thickness thickness = new Thickness(20,5,20,5);
+                Thickness thickness = new Thickness(20, 5, 20, 5);
+                if (seged == 6)
+                {
+                    StackPanel egysor = new StackPanel();
+                    DockPanel_.Children.Add(egysor);
+                }
                 StackPanel panel = new StackPanel();
                 panel.Name = gombok[0];
                 Button b = new Button();
@@ -40,7 +47,7 @@ namespace MemePlayerTerv
                 b.Margin = thickness;
                 MediaElement m = new MediaElement();
                 m.Name = gombok[2];
-                Uri uri = new Uri( @"D:\Git\program\MemePlayerTerv\MemePlayerTerv\bin\Debug\Video\test.mkv");
+                Uri uri = new Uri("D:/Git/program/MemePlayerTerv/MemePlayerTerv/bin/Debug/Video/Rick.mp4");
                 m.Source = uri;
                 m.Width = 200;
                 m.Margin = thickness;
@@ -48,9 +55,11 @@ namespace MemePlayerTerv
                 m.Stop();
                 b.Click += (s, e) =>
                 {
+                    media = m;
                     m.Play();
                 };
-                minden.Children.Add(panel);
+                
+                egysor.Children.Add(panel);
                 panel.Children.Add(m);
                 panel.Children.Add(b);
 
@@ -60,55 +69,35 @@ namespace MemePlayerTerv
 
         private void btnPlay_Click(object sender, RoutedEventArgs e)
         {
-            //media.Play();
-            btnPlay.IsEnabled = false;
-            btnPause.IsEnabled = true;
-            btnStop.IsEnabled = true;
+            media.Play();
+            
         }
 
         private void btnPause_Click(object sender, RoutedEventArgs e)
         {
-            //media.Pause();
-            btnPlay.IsEnabled = true;
-            btnPause.IsEnabled = false;
-            btnStop.IsEnabled = true;
+            media.Pause();
+            
         }
 
         private void btnStop_Click(object sender, RoutedEventArgs e)
         {
-            //media.Stop();
-            btnPlay.IsEnabled = true;
-            btnPause.IsEnabled = true;
-            btnStop.IsEnabled = false;
+            media.Stop();
+            
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            btnPause.IsEnabled = false;
-            btnPlay.IsEnabled = false;
-            btnStop.IsEnabled = false;
+            
             sldVoule.Minimum = 0;
             sldVoule.Maximum = 1;
-            //sldVoule.Value = media.Volume = 0.5;
-            //lblVolume.Content = media.Volume * 100 + " %";
-            
-            //try
-            //{
-            //    using (StreamReader sr = new StreamReader("TestFile.txt"))
-            //    {
-            //        string line = sr.ReadToEndAsync();
-            //        ResultBlock.Text = line;
-            //    }
-            //}
-            //catch (FileNotFoundException ex)
-            //{
-            //    ResultBlock.Text = ex.Message;
-            //}
+            sldVoule.Value = media.Volume = 0.5;
+            lblVolume.Content = media.Volume * 100 + " %";
+
         }
 
         private void sldVoule_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            //media.Volume = sldVoule.Value;
+            media.Volume = sldVoule.Value;
             lblVolume.Content = (int)(sldVoule.Value * 10) + " %";
         }
     }
