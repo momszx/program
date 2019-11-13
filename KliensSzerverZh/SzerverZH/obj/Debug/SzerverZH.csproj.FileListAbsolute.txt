@@ -1,0 +1,6 @@
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\SzerverZH\bin\Debug\SzerverZH.exe.config
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\SzerverZH\bin\Debug\SzerverZH.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\SzerverZH\bin\Debug\SzerverZH.pdb
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\SzerverZH\obj\Debug\SzerverZH.csprojResolveAssemblyReference.cache
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\SzerverZH\obj\Debug\SzerverZH.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\SzerverZH\obj\Debug\SzerverZH.pdb

@@ -1,0 +1,6 @@
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\KliensZH\bin\Debug\KliensZH.exe.config
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\KliensZH\bin\Debug\KliensZH.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\KliensZH\bin\Debug\KliensZH.pdb
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\KliensZH\obj\Debug\KliensZH.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\KliensZH\obj\Debug\KliensZH.pdb
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensSzerverZh\KliensZH\obj\Debug\KliensZH.csprojResolveAssemblyReference.cache
