@@ -1,1 +1,7 @@
 D:\Donkó Márk\SzalkezelesAlapok2\SzalkezelesAlapok2\bin\Debug\SzalkezelesAlapok2.exe.config
+D:\Git\program\SzalkezelesAlapok2\SzalkezelesAlapok2\bin\Debug\SzalkezelesAlapok2.exe.config
+D:\Git\program\SzalkezelesAlapok2\SzalkezelesAlapok2\bin\Debug\SzalkezelesAlapok2.exe
+D:\Git\program\SzalkezelesAlapok2\SzalkezelesAlapok2\bin\Debug\SzalkezelesAlapok2.pdb
+D:\Git\program\SzalkezelesAlapok2\SzalkezelesAlapok2\obj\Debug\SzalkezelesAlapok2.csprojAssemblyReference.cache
+D:\Git\program\SzalkezelesAlapok2\SzalkezelesAlapok2\obj\Debug\SzalkezelesAlapok2.exe
+D:\Git\program\SzalkezelesAlapok2\SzalkezelesAlapok2\obj\Debug\SzalkezelesAlapok2.pdb

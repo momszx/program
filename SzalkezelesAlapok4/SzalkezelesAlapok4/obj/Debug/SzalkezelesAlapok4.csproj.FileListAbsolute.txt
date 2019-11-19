@@ -4,3 +4,9 @@ D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapo
 D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapok4.pdb
 D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.exe
 D:\Donkó Márk\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.pdb
+D:\Git\program\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapok4.exe.config
+D:\Git\program\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapok4.exe
+D:\Git\program\SzalkezelesAlapok4\SzalkezelesAlapok4\bin\Debug\SzalkezelesAlapok4.pdb
+D:\Git\program\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.csprojAssemblyReference.cache
+D:\Git\program\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.exe
+D:\Git\program\SzalkezelesAlapok4\SzalkezelesAlapok4\obj\Debug\SzalkezelesAlapok4.pdb

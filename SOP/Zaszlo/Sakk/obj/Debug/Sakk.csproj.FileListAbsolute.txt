@@ -3,3 +3,9 @@ D:\SOP\Zaszlo\Sakk\bin\Debug\Sakk.exe
 D:\SOP\Zaszlo\Sakk\bin\Debug\Sakk.pdb
 D:\SOP\Zaszlo\Sakk\obj\Debug\Sakk.exe
 D:\SOP\Zaszlo\Sakk\obj\Debug\Sakk.pdb
+D:\Git\program\SOP\Zaszlo\Sakk\bin\Debug\Sakk.exe.config
+D:\Git\program\SOP\Zaszlo\Sakk\bin\Debug\Sakk.exe
+D:\Git\program\SOP\Zaszlo\Sakk\bin\Debug\Sakk.pdb
+D:\Git\program\SOP\Zaszlo\Sakk\obj\Debug\Sakk.csprojAssemblyReference.cache
+D:\Git\program\SOP\Zaszlo\Sakk\obj\Debug\Sakk.exe
+D:\Git\program\SOP\Zaszlo\Sakk\obj\Debug\Sakk.pdb

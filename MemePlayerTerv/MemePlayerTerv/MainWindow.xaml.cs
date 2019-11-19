@@ -47,7 +47,7 @@ namespace MemePlayerTerv
                 b.Margin = thickness;
                 MediaElement m = new MediaElement();
                 m.Name = gombok[2];
-                Uri uri = new Uri("D:/Git/program/MemePlayerTerv/MemePlayerTerv/bin/Debug/Video/Rick.mp4");
+                Uri uri = new Uri(gombok[3]);
                 m.Source = uri;
                 m.Width = 200;
                 m.Margin = thickness;
@@ -59,7 +59,7 @@ namespace MemePlayerTerv
                     m.Play();
                 };
                 
-                egysor.Children.Add(panel);
+                minden.Children.Add(panel);
                 panel.Children.Add(m);
                 panel.Children.Add(b);
 
