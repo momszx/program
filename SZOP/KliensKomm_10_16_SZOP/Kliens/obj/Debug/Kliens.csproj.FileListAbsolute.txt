@@ -1,0 +1,17 @@
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
+D:\Programozás\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+D:\Programozás\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+D:\Programozás\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+D:\Programozás\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csprojAssemblyReference.cache
+D:\Programozás\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+D:\Programozás\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
+D:\Git\program\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+D:\Git\program\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+D:\Git\program\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+D:\Git\program\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csprojAssemblyReference.cache
+D:\Git\program\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+D:\Git\program\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb

@@ -1,0 +1,8 @@
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\obj\Debug\VateraRTC_Szerver.csprojAssemblyReference.cache
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\bin\Debug\VateraRTC_Szerver.dll
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\bin\Debug\VateraRTC_Szerver.pdb
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\bin\Debug\Vatera2.dll
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\bin\Debug\Vatera2.pdb
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\obj\Debug\VateraRTC_Szerver.csproj.CopyComplete
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\obj\Debug\VateraRTC_Szerver.dll
+D:\Git\program\SZOP\Vatera2\VateraRTC_Szerver\obj\Debug\VateraRTC_Szerver.pdb

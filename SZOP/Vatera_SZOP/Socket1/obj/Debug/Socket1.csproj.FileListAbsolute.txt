@@ -1,0 +1,12 @@
+D:\Socket1\Socket1\bin\Debug\Socket1.exe.config
+D:\Socket1\Socket1\bin\Debug\Socket1.exe
+D:\Socket1\Socket1\bin\Debug\Socket1.pdb
+D:\Socket1\Socket1\obj\Debug\Socket1.csprojResolveAssemblyReference.cache
+D:\Socket1\Socket1\obj\Debug\Socket1.exe
+D:\Socket1\Socket1\obj\Debug\Socket1.pdb
+D:\KS\Socket1\Socket1\bin\Debug\Socket1.exe.config
+D:\KS\Socket1\Socket1\obj\Debug\Socket1.exe
+D:\KS\Socket1\Socket1\obj\Debug\Socket1.pdb
+D:\KS\Socket1\Socket1\bin\Debug\Socket1.exe
+D:\KS\Socket1\Socket1\bin\Debug\Socket1.pdb
+D:\KS\Socket1\Socket1\obj\Debug\Socket1.csprojResolveAssemblyReference.cache

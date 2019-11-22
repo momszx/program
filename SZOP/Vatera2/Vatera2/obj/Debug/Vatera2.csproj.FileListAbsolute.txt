@@ -1,0 +1,5 @@
+D:\Git\program\SZOP\Vatera2\Vatera2\bin\Debug\Vatera2.dll
+D:\Git\program\SZOP\Vatera2\Vatera2\bin\Debug\Vatera2.pdb
+D:\Git\program\SZOP\Vatera2\Vatera2\obj\Debug\Vatera2.csprojAssemblyReference.cache
+D:\Git\program\SZOP\Vatera2\Vatera2\obj\Debug\Vatera2.dll
+D:\Git\program\SZOP\Vatera2\Vatera2\obj\Debug\Vatera2.pdb

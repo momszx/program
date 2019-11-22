@@ -1,0 +1,9 @@
+D:\Git\program\SZOP\Vatera2\VateraConsole\bin\Debug\VateraConsole.exe.config
+D:\Git\program\SZOP\Vatera2\VateraConsole\bin\Debug\VateraConsole.exe
+D:\Git\program\SZOP\Vatera2\VateraConsole\bin\Debug\VateraConsole.pdb
+D:\Git\program\SZOP\Vatera2\VateraConsole\bin\Debug\Vatera2.dll
+D:\Git\program\SZOP\Vatera2\VateraConsole\bin\Debug\Vatera2.pdb
+D:\Git\program\SZOP\Vatera2\VateraConsole\obj\Debug\VateraConsole.csprojAssemblyReference.cache
+D:\Git\program\SZOP\Vatera2\VateraConsole\obj\Debug\VateraConsole.csproj.CopyComplete
+D:\Git\program\SZOP\Vatera2\VateraConsole\obj\Debug\VateraConsole.exe
+D:\Git\program\SZOP\Vatera2\VateraConsole\obj\Debug\VateraConsole.pdb

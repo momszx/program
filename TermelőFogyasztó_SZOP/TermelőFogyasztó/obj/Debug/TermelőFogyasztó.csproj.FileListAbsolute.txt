@@ -1,6 +1,0 @@
-D:\Git\program\TermelőFogyasztó\TermelőFogyasztó\bin\Debug\TermelőFogyasztó.exe.config
-D:\Git\program\TermelőFogyasztó\TermelőFogyasztó\bin\Debug\TermelőFogyasztó.exe
-D:\Git\program\TermelőFogyasztó\TermelőFogyasztó\bin\Debug\TermelőFogyasztó.pdb
-D:\Git\program\TermelőFogyasztó\TermelőFogyasztó\obj\Debug\TermelőFogyasztó.csprojAssemblyReference.cache
-D:\Git\program\TermelőFogyasztó\TermelőFogyasztó\obj\Debug\TermelőFogyasztó.exe
-D:\Git\program\TermelőFogyasztó\TermelőFogyasztó\obj\Debug\TermelőFogyasztó.pdb
