@@ -28,16 +28,21 @@ namespace MemePlayerTerv
             InitializeComponent();
             StreamReader sr = new StreamReader(@"gombok.csv");
             string sor;
+            bool zenefut = false;
+            int seged = 6;
+            StackPanel egysor = new StackPanel();
+            egysor.HorizontalAlignment = HorizontalAlignment.Center;
+            egysor.Orientation = Orientation.Horizontal;
 
             while ((sor = sr.ReadLine()) != null)
             {
-                int seged = 0;
+                
                 List<string> gombok = new List<string>(sor.Split(';'));
                 Thickness thickness = new Thickness(20, 5, 20, 5);
                 if (seged == 6)
                 {
-                    StackPanel egysor = new StackPanel();
-                    DockPanel_.Children.Add(egysor);
+                    
+                    minden.Children.Add(egysor);
                 }
                 StackPanel panel = new StackPanel();
                 panel.Name = gombok[0];
@@ -46,7 +51,7 @@ namespace MemePlayerTerv
                 b.Content = gombok[1];
                 b.Margin = thickness;
                 MediaElement m = new MediaElement();
-                m.Name = gombok[2];
+                m.Name =gombok[2];
                 Uri uri = new Uri(gombok[3]);
                 m.Source = uri;
                 m.Width = 200;
@@ -55,13 +60,23 @@ namespace MemePlayerTerv
                 m.Stop();
                 b.Click += (s, e) =>
                 {
+                    if (zenefut)
+                    {
+                        media.Stop();
+                    }
                     media = m;
-                    m.Play();
+                    zenefut = true;
+                    m.Play(); ;
                 };
                 
-                minden.Children.Add(panel);
+                egysor.Children.Add(panel);
                 panel.Children.Add(m);
                 panel.Children.Add(b);
+                seged--;
+                if (seged == 0)
+                {
+                    seged = 6;
+                }
 
 
             }
