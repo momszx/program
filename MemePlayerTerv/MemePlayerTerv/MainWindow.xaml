@@ -25,9 +25,9 @@
             </Button>
             <Label Content="Hang" VerticalAlignment="Center" Margin="0,0,10,0" Background="#00000000" Foreground="White"/>
             <Slider x:Name="sldVoule" Width="100" ValueChanged="sldVoule_ValueChanged" VerticalAlignment="Center" RenderTransformOrigin="0.551,0.819"/>
-            <Label x:Name="lblVolume"/>
+            <Label x:Name="lblVolume" VerticalAlignment="Center" Foreground="White"/>
         </StackPanel>
-        <StackPanel x:Name="minden" Orientation="Horizontal" HorizontalAlignment="Center">
+        <StackPanel x:Name="minden" >
         </StackPanel>
     </DockPanel>
 </Window>

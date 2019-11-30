@@ -22,34 +22,44 @@ namespace MemePlayerTerv
     /// </summary>
     public partial class MainWindow : Window
     {
+        #region Segéd média element azért hogy ne legyen több média inditható
         public MediaElement media = new MediaElement();
+        #endregion
+        public StackPanel egysor = new StackPanel();
         public MainWindow()
         {
             InitializeComponent();
+            #region file beolvasás
             StreamReader sr = new StreamReader(@"gombok.csv");
             string sor;
+            #endregion
+            #region több média egyszerre való lejátszásának elkerülése érdekéban 
             bool zenefut = false;
-            int seged = 6;
-            StackPanel egysor = new StackPanel();
-            egysor.HorizontalAlignment = HorizontalAlignment.Center;
-            egysor.Orientation = Orientation.Horizontal;
+            #endregion
+            int seged = 0;
+            
 
             while ((sor = sr.ReadLine()) != null)
             {
-                
+                #region beolvasott file sorainak szétszedése ";" szerint 
                 List<string> gombok = new List<string>(sor.Split(';'));
+                #endregion
+                #region alat távolság beállítása az elemek között
                 Thickness thickness = new Thickness(20, 5, 20, 5);
-                if (seged == 6)
-                {
-                    
-                    minden.Children.Add(egysor);
-                }
+                #endregion
+
+                StackPanel stackPanel;
+                #region Elkülönítésre használt sarck panel létrehozása
                 StackPanel panel = new StackPanel();
                 panel.Name = gombok[0];
+                #endregion
+                #region gomb létrehozás
                 Button b = new Button();
                 b.Name = gombok[0];
                 b.Content = gombok[1];
                 b.Margin = thickness;
+                #endregion
+                #region media element létrehozás
                 MediaElement m = new MediaElement();
                 m.Name =gombok[2];
                 Uri uri = new Uri(gombok[3]);
@@ -58,6 +68,8 @@ namespace MemePlayerTerv
                 m.Margin = thickness;
                 m.LoadedBehavior = MediaState.Manual;
                 m.Stop();
+                #endregion
+                #region gomb click event létrehozás
                 b.Click += (s, e) =>
                 {
                     if (zenefut)
@@ -68,14 +80,26 @@ namespace MemePlayerTerv
                     zenefut = true;
                     m.Play(); ;
                 };
-                
-                egysor.Children.Add(panel);
-                panel.Children.Add(m);
-                panel.Children.Add(b);
-                seged--;
+                #endregion
                 if (seged == 0)
                 {
-                    seged = 6;
+                    stackPanel= new StackPanel();
+                    stackPanel.HorizontalAlignment = HorizontalAlignment.Center;
+                    stackPanel.Orientation = Orientation.Horizontal;
+                    stackPanel.Name = gombok[0];
+                    egysor = stackPanel;
+                    minden.Children.Add(egysor);
+                }
+
+                egysor.Children.Add(panel);
+                #region gomb illetve media element hozzáadás közös stack panelhez 
+                panel.Children.Add(m);
+                panel.Children.Add(b);
+                #endregion
+                seged++;
+                if (seged == 6)
+                {
+                    seged = 0;
                 }
 
 
