@@ -39,7 +39,7 @@ namespace MemePlayerTerv
             int seged = 0;
             
 
-            while ((sor = sr.ReadLine()) != null)
+            while ((sor = sr.ReadLine()) != null && sor !="")
             {
                 #region beolvasott file sorainak szétszedése ";" szerint 
                 List<string> gombok = new List<string>(sor.Split(';'));
