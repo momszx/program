@@ -4,3 +4,9 @@ D:\SOP\Zaszlo\Zaszlo\bin\Debug\Zaszlo.pdb
 D:\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.csprojResolveAssemblyReference.cache
 D:\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.exe
 D:\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.pdb
+D:\Git\program\SZOP\SOP\Zaszlo\Zaszlo\bin\Debug\Zaszlo.exe.config
+D:\Git\program\SZOP\SOP\Zaszlo\Zaszlo\bin\Debug\Zaszlo.exe
+D:\Git\program\SZOP\SOP\Zaszlo\Zaszlo\bin\Debug\Zaszlo.pdb
+D:\Git\program\SZOP\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.csprojAssemblyReference.cache
+D:\Git\program\SZOP\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.exe
+D:\Git\program\SZOP\SOP\Zaszlo\Zaszlo\obj\Debug\Zaszlo.pdb

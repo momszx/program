@@ -30,7 +30,7 @@ namespace MemePlayerTerv
         {
             InitializeComponent();
             #region file beolvasás
-            StreamReader sr = new StreamReader(@"gombokk.csv");
+            StreamReader sr = new StreamReader(@"gombok.csv");
             string sor;
             #endregion
             #region több média egyszerre való lejátszásának elkerülése érdekéban 
