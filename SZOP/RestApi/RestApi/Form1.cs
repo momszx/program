@@ -20,7 +20,7 @@ namespace RestApi
         {
             InitializeComponent();
         }
-
+        //Get list
         private void button1_Click(object sender, EventArgs e)
         {
             listBox1.Items.Clear();
@@ -36,7 +36,7 @@ namespace RestApi
             }
             else MessageBox.Show(response.Content);
         }
-
+        //Get item
         private void button2_Click(object sender, EventArgs e)
         {
             RestClient client = new RestClient(url);
@@ -53,7 +53,7 @@ namespace RestApi
             }
             else MessageBox.Show(response.Content);
         }
-
+        // New item
         private void button3_Click(object sender, EventArgs e)
         {
             RestClient client = new RestClient(url);
@@ -69,7 +69,7 @@ namespace RestApi
                 MessageBox.Show(response.Content);
             }
         }
-
+        //Update item
         private void button4_Click(object sender, EventArgs e)
         {
             RestClient client = new RestClient(url);
@@ -85,7 +85,7 @@ namespace RestApi
                 MessageBox.Show(response.Content);
             }
         }
-
+        //Delete item 
         private void button5_Click(object sender, EventArgs e)
         {
             RestClient client = new RestClient(url);

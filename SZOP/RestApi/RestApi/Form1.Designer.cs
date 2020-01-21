@@ -93,21 +93,21 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(241, 38);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(120, 95);
+            this.listBox1.Size = new System.Drawing.Size(274, 95);
             this.listBox1.TabIndex = 5;
             // 
             // tbID
             // 
             this.tbID.Location = new System.Drawing.Point(241, 158);
             this.tbID.Name = "tbID";
-            this.tbID.Size = new System.Drawing.Size(100, 20);
+            this.tbID.Size = new System.Drawing.Size(200, 20);
             this.tbID.TabIndex = 6;
             // 
             // tbName
             // 
             this.tbName.Location = new System.Drawing.Point(241, 201);
             this.tbName.Name = "tbName";
-            this.tbName.Size = new System.Drawing.Size(100, 20);
+            this.tbName.Size = new System.Drawing.Size(200, 20);
             this.tbName.TabIndex = 7;
             // 
             // Form1
